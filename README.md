@@ -13,6 +13,6 @@ In this project, we used the following embedded systems applications: GPIO, SysT
 # Functional Block Diagram
 <img width="461" alt="Block Diagram" src="https://github.com/user-attachments/assets/cb4e4c46-11f5-4e7e-a596-2fafd9a38043" />
 # List of Components
-
+![image](https://github.com/user-attachments/assets/f71d06f4-bf30-44b6-aa4f-62d72dcc4b93)
 # Pinout Table
 
