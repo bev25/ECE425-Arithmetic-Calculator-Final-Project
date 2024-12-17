@@ -11,7 +11,7 @@ In this project, we used the following embedded systems applications: GPIO, SysT
   - UART: used to display the calculator layout, the user’s inputs, and the result
 
 # Functional Block Diagram
-
+https://github.com/bev25/ECE425-Arithmetic-Calculator-Final-Project/issues/1#issue-2744069955
 # List of Components
 
 # Pinout Table
